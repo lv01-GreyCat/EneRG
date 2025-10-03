@@ -1,0 +1,13 @@
+name = "Immersive Damage Indicators"
+filename = "immersivedamageindicators-fabric-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe8a44969cfb82f80c9c5f65b35aeaa4e0277429"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6480780
+project-id = 1255453

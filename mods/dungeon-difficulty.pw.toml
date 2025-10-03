@@ -1,0 +1,13 @@
+name = "Dungeon Difficulty"
+filename = "dungeon_difficulty-fabric-3.6.1+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ENZmbSFZ/versions/yhiZ5WMK/dungeon_difficulty-fabric-3.6.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "06e12a952f9d06086ca93b084af4bacdb9e3e155007ef3c5ef93785e9f8ee8c19b9fb48f6bc13906b267028d821ba397d9581a43d4f94120e0941fcda8d62534"
+
+[update]
+[update.modrinth]
+mod-id = "ENZmbSFZ"
+version = "yhiZ5WMK"

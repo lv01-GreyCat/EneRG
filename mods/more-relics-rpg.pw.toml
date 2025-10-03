@@ -1,0 +1,13 @@
+name = "More Relics"
+filename = "more-relics-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZ3b4kEa/versions/FYME7h0U/more-relics-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "9a0cc003f0cde1546e27dec19a5c165f5a743adaa0f6d861f44214a51b83aec0d04af20a6db77d60a5c5ba413826f3902cda3fc396168eedaca1a1512f09083a"
+
+[update]
+[update.modrinth]
+mod-id = "IZ3b4kEa"
+version = "FYME7h0U"

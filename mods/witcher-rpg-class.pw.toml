@@ -1,0 +1,13 @@
+name = "Witcher (More RPG Classes)"
+filename = "witcher-class-mod-2.5.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4eW1c7Gj/versions/e0c2EkNY/witcher-class-mod-2.5.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "0a5c7f8540d529c808170e5e0a4004f8270bb96a3a0cd0de08c2d5a37028e80db54c639b78cb192b866e77a8afdadae070a47c4d9cf5d6cf88291aef885354f7"
+
+[update]
+[update.modrinth]
+mod-id = "4eW1c7Gj"
+version = "e0c2EkNY"

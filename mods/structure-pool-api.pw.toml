@@ -1,0 +1,13 @@
+name = "Structure Pool API"
+filename = "structure_pool_api-fabric-1.2.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LrYZi08Q/versions/GFJjXyPU/structure_pool_api-fabric-1.2.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "02984b00c2f59ef5e7402eecdb1717268125ea6a8788f2a72928e61456b7d51d27119a03a546547c2368b505df0e99ad796ade17a65da6b66684e19d7c5e4edd"
+
+[update]
+[update.modrinth]
+mod-id = "LrYZi08Q"
+version = "GFJjXyPU"

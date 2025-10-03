@@ -1,0 +1,13 @@
+name = "Wheelbarrow"
+filename = "wheelbarrow-1.0.2+fabric_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F0jGC2As/versions/HDZnQDRj/wheelbarrow-1.0.2%2Bfabric_1.21.1.jar"
+hash-format = "sha512"
+hash = "a05b8d53f8aed10be527bbae97703c4e22bbae9abda0705f0174ff684d20599bbb9ca0e01bc5edf971598d149403a2af8ba37fdb7a744b450254d3946672c077"
+
+[update]
+[update.modrinth]
+mod-id = "F0jGC2As"
+version = "HDZnQDRj"

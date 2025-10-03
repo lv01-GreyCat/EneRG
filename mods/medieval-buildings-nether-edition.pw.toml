@@ -1,0 +1,13 @@
+name = "Medieval Buildings [Nether Edition]"
+filename = "medieval_buildings_nether_edition-1.21.1-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9zKI9xOD/versions/O3kZ6j2Z/medieval_buildings_nether_edition-1.21.1-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "3b6b1adfff8760fd970e674476eea28852d06745a0aca59c8f2bdece9e90c23634adfc8a555cc3cde8f0b65f4cd36f71e76ca7d955382f55fa69874e01728868"
+
+[update]
+[update.modrinth]
+mod-id = "9zKI9xOD"
+version = "O3kZ6j2Z"

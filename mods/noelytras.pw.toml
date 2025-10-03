@@ -1,0 +1,13 @@
+name = "No Elytras"
+filename = "noelytra-1.21+1.1.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lns5xn6Q/versions/ehkq6xOL/noelytra-1.21%2B1.1.0-fabric.jar"
+hash-format = "sha512"
+hash = "3ed5d1ffb49ab8ba78b03ac0569177a38a1c1f15a460e4877ab9cd957f263aac3298d25ce0f3374b2b0bf7d653d5abd25e62c27e64b5add68dd808a090c0e4b5"
+
+[update]
+[update.modrinth]
+mod-id = "Lns5xn6Q"
+version = "ehkq6xOL"

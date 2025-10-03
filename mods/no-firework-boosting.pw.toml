@@ -1,0 +1,13 @@
+name = "No Firework Boosting"
+filename = "NoFireworkBoosting-v1.0.1-mc1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xdJ5eVIN/versions/aStIyvvG/NoFireworkBoosting-v1.0.1-mc1.20.jar"
+hash-format = "sha512"
+hash = "73b3100c3deb94e91e04d202512087a4f1a44f4ce30c24ba87b17729e4168535d2967d4970c24f6916d9a54877932f510ea66f7a132e798e25a0bfbfbd1d940b"
+
+[update]
+[update.modrinth]
+mod-id = "xdJ5eVIN"
+version = "aStIyvvG"

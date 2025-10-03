@@ -1,0 +1,13 @@
+name = "FokusAPI"
+filename = "FokusAPI-v2.8_MOD.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvZnCrhx/versions/PcxXSCBI/FokusAPI-v2.8_MOD.jar"
+hash-format = "sha512"
+hash = "2de09ff9811483f63a290781af571996db2489875a553705d9cc4ef3f019777398a43c4c46a89f21517569d920abcd3d234198c63b5f7b38af4fda2741efb2a5"
+
+[update]
+[update.modrinth]
+mod-id = "rvZnCrhx"
+version = "PcxXSCBI"

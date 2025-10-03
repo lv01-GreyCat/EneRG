@@ -1,0 +1,13 @@
+name = "Thermoo Patches"
+filename = "thermoo-patches-3.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYRF9nUy/versions/NtTOrSLf/thermoo-patches-3.7.0.jar"
+hash-format = "sha512"
+hash = "20f008061ca153b319eb00091953fe613095a237dd565214be6d65c4a45b3d8d2f8ff6040041bd11269a3fa3b26a6d7b4bf0ca5c10481654b97c46314faa9a67"
+
+[update]
+[update.modrinth]
+mod-id = "TYRF9nUy"
+version = "NtTOrSLf"

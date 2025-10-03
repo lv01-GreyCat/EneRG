@@ -1,0 +1,13 @@
+name = "Mini Tardis"
+filename = "mini_tardis-2.0.0-beta.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AnM1UyFW/versions/WR72teKw/mini_tardis-2.0.0-beta.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "99f74cf91a6a3d8f0414b5861f8e7cdee704bf66fb4f2f373a3bdc9f5ae3781973f4414eb585b8f75a8d50508e7b119e7eda66943da4a7a2a350b6e124289891"
+
+[update]
+[update.modrinth]
+mod-id = "AnM1UyFW"
+version = "WR72teKw"

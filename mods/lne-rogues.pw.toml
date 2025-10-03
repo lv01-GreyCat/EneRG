@@ -1,0 +1,13 @@
+name = "LNE Rogues & Warriors Add-On"
+filename = "lne_rogues-1.0.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JEvQhsp7/versions/QgZgIoxt/lne_rogues-1.0.3-1.21.1.jar"
+hash-format = "sha512"
+hash = "4ce848fa58adecf5e9df4b5cf1eed295be6ac80cb6881306a98cb88897b215706a19d2b613fb8b375053b894899b6827b4f9713d8a564b12cfb333dbeac29ea0"
+
+[update]
+[update.modrinth]
+mod-id = "JEvQhsp7"
+version = "QgZgIoxt"

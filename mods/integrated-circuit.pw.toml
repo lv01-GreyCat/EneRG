@@ -1,0 +1,13 @@
+name = "Integrated circuit"
+filename = "integrated-circuit-1.21-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bybyRAPl/versions/XuXYO4Sa/integrated-circuit-1.21-1.5.0.jar"
+hash-format = "sha512"
+hash = "487ba130dc0116191ed8adda5083f386c59b14935c5cbb04e005721555bb814255fc0fb8fa251620251c6bf871f5443c3a5191b6ca1d5be830793929dd3a3c27"
+
+[update]
+[update.modrinth]
+mod-id = "bybyRAPl"
+version = "XuXYO4Sa"

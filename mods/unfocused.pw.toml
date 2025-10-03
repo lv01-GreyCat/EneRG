@@ -1,0 +1,13 @@
+name = "Unfocused"
+filename = "unfocused-fabric-0.2.2-1.21.1-sgd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvsO32QY/versions/ST0iclLC/unfocused-fabric-0.2.2-1.21.1-sgd.jar"
+hash-format = "sha512"
+hash = "057deb0e18b65caa78ab10daf6e2432e68ce3857a5a9957c4c105d9450c7833bd1b68a5cec3990441d8deca8670cd450581d8fc4f8e935cb81b320289e95e798"
+
+[update]
+[update.modrinth]
+mod-id = "BvsO32QY"
+version = "ST0iclLC"

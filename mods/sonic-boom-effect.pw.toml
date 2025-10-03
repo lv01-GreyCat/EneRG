@@ -1,0 +1,13 @@
+name = "Sonic Boom Effect"
+filename = "Sonic-Boom-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZsxANgak/versions/Vs5X8nPi/Sonic-Boom-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "25269495dd1b83a2f33ca8b456cbfc6df76cdc58059ee864953b06c3d03a087b60fdb54b9c33fb52bb932dfe9ad261b8826581ef28190a573ac39e3c14e898e7"
+
+[update]
+[update.modrinth]
+mod-id = "ZsxANgak"
+version = "Vs5X8nPi"

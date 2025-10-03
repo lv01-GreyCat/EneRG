@@ -1,0 +1,13 @@
+name = "Village Taverns (RPG Series)"
+filename = "village_taverns-fabric-1.1.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bj4a8NjJ/versions/csEPK1Xg/village_taverns-fabric-1.1.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e57001feb6c61c96880f609bb52a044d9b60a0e866fa5bdd9dff0e403c58339b9ef355837357b4c90fd2c9288e4321aa7116d96a32b6000f3b3a69e1f3418676"
+
+[update]
+[update.modrinth]
+mod-id = "bj4a8NjJ"
+version = "csEPK1Xg"

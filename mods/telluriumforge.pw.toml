@@ -1,0 +1,13 @@
+name = "TelluriumForge"
+filename = "telluriumforge-1.4.0-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GPY7zsQZ/versions/t4hc3Puh/telluriumforge-1.4.0-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "5ef3f8b821ed31cdb04618bec441e3adbb6e0bc388639f5d838f91470eb31efe53b80e7c704374c7a8fd609f59a37c2551052182c472dc9c0fee06fb488b25bf"
+
+[update]
+[update.modrinth]
+mod-id = "GPY7zsQZ"
+version = "t4hc3Puh"

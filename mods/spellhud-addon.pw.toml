@@ -1,0 +1,13 @@
+name = "SpellHud Addon"
+filename = "spellhud-addon-1.0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa556e40ce260a01e71f2a724d58c71745c6e8fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7018651
+project-id = 1264842

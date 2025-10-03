@@ -1,0 +1,13 @@
+name = "Repeatable Trial Vaults"
+filename = "repeatable_trial_vaults-fabric-1.21-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5RO5CdUY/versions/lIUI2zc3/repeatable_trial_vaults-fabric-1.21-1.0.2.jar"
+hash-format = "sha512"
+hash = "6e18fad780c0983372116216dd0ff7775b6d4df4b9404dae5ef6bebf2a51ffb52778242125a82c678eafae9a35a4841483cdfab43d7f6c32f176f10b21fa40a3"
+
+[update]
+[update.modrinth]
+mod-id = "5RO5CdUY"
+version = "lIUI2zc3"

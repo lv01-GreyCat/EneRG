@@ -1,0 +1,13 @@
+name = "More RPG Classes - Skill Tree"
+filename = "mrpgc-skill-tree-add-on-1.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3OYmNUDq/versions/7sGhohSS/mrpgc-skill-tree-add-on-1.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "579e49f16233045d0c56177dab47003d12fff9d1dce6ed90ab36ddd4361f0c4e81f5faad9c90963ceb428b148d0d9d3ee09014ef0c1e4b26b60a1331eb928e1a"
+
+[update]
+[update.modrinth]
+mod-id = "3OYmNUDq"
+version = "7sGhohSS"

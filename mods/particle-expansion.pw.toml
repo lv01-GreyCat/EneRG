@@ -1,0 +1,13 @@
+name = "Particle Expansion"
+filename = "Particle Expansion v4.1.12 for 1.21 - 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/33PwaGRr/versions/wzj9C8PW/Particle%20Expansion%20v4.1.12%20for%201.21%20-%201.21.1.jar"
+hash-format = "sha512"
+hash = "d8ad0962dacff39d464d99a550ab841a4e08fb04c6351566ef57e16dadf51afd14853d2260f1eddcd00cdc727a7918dcc61b6d5b0621c361971e1f69014b52dc"
+
+[update]
+[update.modrinth]
+mod-id = "33PwaGRr"
+version = "wzj9C8PW"

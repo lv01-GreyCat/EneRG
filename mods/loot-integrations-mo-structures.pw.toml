@@ -1,0 +1,13 @@
+name = "Loot Integrations: Mo' Structures"
+filename = "lootintegrations_mostructures-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "340a57d3125c4803e5de96c8ae6e3847b1d3a213"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6510143
+project-id = 1149302

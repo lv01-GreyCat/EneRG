@@ -1,0 +1,13 @@
+name = "Dank Storage"
+filename = "dankstorage-fabric-1.21.1-19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2482a722e73e540a922af5752c2c74e116680041"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6194010
+project-id = 335673

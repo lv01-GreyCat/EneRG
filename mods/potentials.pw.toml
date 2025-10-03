@@ -1,0 +1,13 @@
+name = "Potentials"
+filename = "potentials-fabric-1.21-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J9pKOkxP/versions/cEF2AxxA/potentials-fabric-1.21-0.7.1.jar"
+hash-format = "sha512"
+hash = "0903c427ef58114bfb9b7ca824a1d3013dbfd4de7ea1b04d652e9825ff6382e34e85c4135e4398e1c84cd251c7f75afb530069df540db1e4a76bb2f87d93d2ef"
+
+[update]
+[update.modrinth]
+mod-id = "J9pKOkxP"
+version = "cEF2AxxA"

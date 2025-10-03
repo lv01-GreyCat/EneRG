@@ -1,0 +1,13 @@
+name = "LightWithin - Player-specific unique powers!"
+filename = "lightwithin-2.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f8LsKKPu/versions/elkiRXa3/lightwithin-2.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "1ae8d70982c4bc6829f3e034af30ce9a4f2d59393dd2fc934d16676d1c8f7bddfde2b892bc9b25a6810100e1892bdca396cf2bd4eb51b01dfe896122a8bc184b"
+
+[update]
+[update.modrinth]
+mod-id = "f8LsKKPu"
+version = "elkiRXa3"

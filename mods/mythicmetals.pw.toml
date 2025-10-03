@@ -1,0 +1,13 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.24.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/ObewgwW3/mythicmetals-0.24.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "4634b5d78a0cb8bbe7abfb42f2c4c5521dfcd61305216f2add766698f42df0c444975b81cb235d1ac5983a1e18fec056c5c687a2c9f2e7ea7d2aff70cedb9709"
+
+[update]
+[update.modrinth]
+mod-id = "bAWzYNRd"
+version = "ObewgwW3"

@@ -1,0 +1,13 @@
+name = "Biolith"
+filename = "biolith-fabric-3.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b95eb85e840a59a3364acd13ce5b9b1fe6c4208b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7004806
+project-id = 852512

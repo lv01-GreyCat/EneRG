@@ -1,0 +1,13 @@
+name = "Ender Dragon Egg Respawn (Fabric)"
+filename = "EnderDragonEggRespawn-2.0.0_1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f4a211f29e1a2f0cc4bba130f679c6c2f37fc5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5908771
+project-id = 832446

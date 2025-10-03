@@ -1,0 +1,13 @@
+name = "Embedded Computer"
+filename = "embeddedcomputer-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/X41LBcSD/versions/kKnc181S/embeddedcomputer-1.1.2.jar"
+hash-format = "sha512"
+hash = "3da6d7707e034032064ff9f45ac1fd777a6d96ca0cc6ce513643edb644f4c6f54bbc7c4e8321943b2ee80271e8455d0dd1dd96509b6b263dfb3a6abbfb8256f0"
+
+[update]
+[update.modrinth]
+mod-id = "X41LBcSD"
+version = "kKnc181S"

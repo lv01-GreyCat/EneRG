@@ -1,0 +1,13 @@
+name = "Cable Tiers"
+filename = "cabletiers-fabric-1.21.1-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UsLNxQgK/versions/JE8d8fN8/cabletiers-fabric-1.21.1-0.4.2.jar"
+hash-format = "sha512"
+hash = "4481bb096091b49503a77f7c77541ec7e9e41862e01cdecd01563b58f09b3499026b3ac3965857288cb42fe53655d9849b5a4e5a13ca581514f9ddf307e540d1"
+
+[update]
+[update.modrinth]
+mod-id = "UsLNxQgK"
+version = "JE8d8fN8"

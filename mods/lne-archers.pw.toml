@@ -1,0 +1,13 @@
+name = "LNE Archers Add-On"
+filename = "lne_archers-1.0.7-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zl6rTul9/versions/SNcj1AOk/lne_archers-1.0.7-1.21.1.jar"
+hash-format = "sha512"
+hash = "fba5bb2814fb33808323df2c3498db669a9a257deebd41c11f85b640fe878be229cb31f38558d2bbbece0fe796320ced6e77acf5445204a8d1f980cc22113695"
+
+[update]
+[update.modrinth]
+mod-id = "Zl6rTul9"
+version = "SNcj1AOk"

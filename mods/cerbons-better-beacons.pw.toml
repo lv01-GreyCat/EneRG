@@ -1,0 +1,13 @@
+name = "CERBON's Better Beacons"
+filename = "BetterBeacons-Fabric-1.21.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gSeQTNSE/versions/5l7UVgE2/BetterBeacons-Fabric-1.21.1-2.1.1.jar"
+hash-format = "sha512"
+hash = "1d0e4dfe6faae7a9f32814ef1eb91c82b64a7cb93320810dfee6fdb7e2b5f04f58bce298cee0e674a3b2511630951f58bf01968bf4cf1b0802368d797f927ae6"
+
+[update]
+[update.modrinth]
+mod-id = "gSeQTNSE"
+version = "5l7UVgE2"
