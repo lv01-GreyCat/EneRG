@@ -1,0 +1,13 @@
+name = "Transparent Entities"
+filename = "TransparentEntities-1.3.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoTHHqk4/versions/z76rJ3ym/TransparentEntities-1.3.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b6885b5ff08131e14111c3d6aaff7cee9e3ed8b96da098a2f736580ee444c6b0391167face9cbbbe344c400250e0c76d7a0ee22e705b809c06c6a8fd623fb90f"
+
+[update]
+[update.modrinth]
+mod-id = "DoTHHqk4"
+version = "z76rJ3ym"

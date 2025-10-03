@@ -1,0 +1,13 @@
+name = "Revault"
+filename = "revault-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E8egdGje/versions/VZGAfSUb/revault-1.2.jar"
+hash-format = "sha512"
+hash = "a6a663f77d342d4a1bab7f65f1d0aabbb6d7e84bdf5d03066a3245936d14b04b583aa9991d1d01325fdf87fe0819ff23c7d6b8194447d879077c7a215934205d"
+
+[update]
+[update.modrinth]
+mod-id = "E8egdGje"
+version = "VZGAfSUb"

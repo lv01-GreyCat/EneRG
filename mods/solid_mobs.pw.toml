@@ -1,0 +1,13 @@
+name = "Solid Mobs"
+filename = "solid_mobs_fabric.1.21-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uEXYxtEF/versions/MyVAORxF/solid_mobs_fabric.1.21-1.7.1.jar"
+hash-format = "sha512"
+hash = "8fcbae5afcf26bae48f8dd080cad57696578be49a87be3a6d54550d6b284c4815cd7e5b211b4dca0f17181be89411506142ca41caaa479ecf8135e32cb1b235b"
+
+[update]
+[update.modrinth]
+mod-id = "uEXYxtEF"
+version = "MyVAORxF"

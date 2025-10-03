@@ -1,0 +1,13 @@
+name = "Default Dark Mode: Expansion"
+filename = "Default-Dark-Mode-Expansion-1.19.0+-2025.10.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3vMfZFQ/versions/GtcBCBhN/Default-Dark-Mode-Expansion-1.19.0%2B-2025.10.1.zip"
+hash-format = "sha512"
+hash = "16ac6a38fde3438ad6965af4b7099123dc8f3497fc6cfae61f942c7e8fe8d05b0a592bffb7c8bb965334171f05854848ebbd39e829e8fb7a7ce6318e2987093d"
+
+[update]
+[update.modrinth]
+mod-id = "m3vMfZFQ"
+version = "GtcBCBhN"

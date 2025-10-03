@@ -1,0 +1,14 @@
+name = "Square Grass"
+filename = "§2§lSquare Grass 1.1.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/2i2HDjSq/versions/Cn4o0sR4/%C2%A72%C2%A7lSquare%20Grass%201.1.zip"
+hash-format = "sha512"
+hash = "884582d86dba199cc8f61bea4d89e52a338c235d3a2ea8513f84e9db500ad0f70fe49d97f1b386cc567c8f9442d773159efd9b57ca4af9b6196b55e3de7eca39"
+
+[update]
+[update.modrinth]
+mod-id = "2i2HDjSq"
+version = "Cn4o0sR4"
