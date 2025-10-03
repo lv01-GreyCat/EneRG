@@ -6,7 +6,7 @@ hash = "2a5f5d12ccb01fec99d293cf2e738e4d9beb77bd78237b370e1435279e59bf8d"
 
 [[files]]
 file = "config/yosbr/config/continuebutton/config.properties"
-hash = "de1aa9c5d8504aab5d4a54e38987a81d94833a64f7eb26023eddd95498bce6be"
+hash = "c8a25dcc53b2af9a614614bf03079022ff69f5a34116e100ae6a9d0ab8c4bd3a"
 
 [[files]]
 file = "config/yosbr/config/double_hotbar.json5"
@@ -78,11 +78,11 @@ hash = "e5885bdd7ac4e9b8d48ed6f086b524f2f4a03afc438f1b334a68d955ed529fc2"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6f8aa668b8f3bb4e4e9fba4c626ec47d2c8cc5fe81aaeb75dee038d1e6b703c3"
+hash = "12de27af38c11f89d8d0f655173c5fa002d7e0865ccf122b4597298e4249da3f"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "55659a80fd145ea497b09e5b5ec3e3fe42171643bbe30008c9f9a931640a2232"
+hash = "bac31e2a275a98ce55c8132836494565f8d6d55409dee3ea5fe3fb899da6be62"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -255,6 +255,11 @@ hash = "75226fe31d286f478959036e3431292edacf7be2c51012a9dea5d74ff24ebec3"
 metafile = true
 
 [[files]]
+file = "mods/configuration.pw.toml"
+hash = "4c3179c71934c8e8b020b6b5cef74f05fcf0e18ca48f016d5ecc979cd28e41ea"
+metafile = true
+
+[[files]]
 file = "mods/continue.pw.toml"
 hash = "ea8aeb8d9c95ce2bcc1b927b006f217410789b1b659de81dbcee9eb8c931de92"
 metafile = true
@@ -282,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "8dbee07c8b3212d22fd518c4862f24182272536f760c56d536e1229667fc7c9e"
 metafile = true
 
 [[files]]
