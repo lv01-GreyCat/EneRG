@@ -1,12 +1,12 @@
 name = "eneRG"
 author = "Grey Cat"
-version = "0.6"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4db6600df74f1e6b8e8fa62ab21ffb452a37ef6c74b13fca8c2dfceaddd5e801"
+hash = "a22e65b2777d1e19efb688b0177d185dc7407140393708112e6f31aba280301c"
 
 [versions]
 fabric = "0.17.2"
