@@ -367,11 +367,6 @@ hash = "71df6736f94cde9e7b5ab070b7a3a5cca59648c98182cb25fb2563737994bf3a"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "796c28baec98b91ac98449364c0a6786201f01580a777bcecacb137c1e2c6309"
-metafile = true
-
-[[files]]
 file = "mods/cable-tiers.pw.toml"
 hash = "bfb7dcb57cc93ade9f897a0e182692a81de282c2e586e07f63fc0fbe1d2d9297"
 metafile = true
@@ -1064,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "8652126fa21590d4273f81b8c802b4dae927e56237e7d0ba440bfaa661f50df7"
-metafile = true
-
-[[files]]
-file = "mods/immersive-sound.pw.toml"
-hash = "10b3e2b80ef6a343b230e27a16d0a5a036140c08d818dd631215c246da431531"
 metafile = true
 
 [[files]]
