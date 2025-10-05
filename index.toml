@@ -1062,11 +1062,6 @@ hash = "5b2241365555857a9878a938b6ee80210c02d4193468a58a253ae4c10b2b4762"
 metafile = true
 
 [[files]]
-file = "mods/immersive-damage-indicators.pw.toml"
-hash = "d06ec617c5f8ba67bc87acef084ca36fa4a9a02f16bdd82b78a53013b61b7ee2"
-metafile = true
-
-[[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "8652126fa21590d4273f81b8c802b4dae927e56237e7d0ba440bfaa661f50df7"
 metafile = true
