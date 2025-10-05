@@ -272,11 +272,6 @@ hash = "6352e31a6dbef6679746e26f72b195e391765fea57208d36179156cea9d47f6f"
 metafile = true
 
 [[files]]
-file = "mods/best-bundles.pw.toml"
-hash = "b2168474134cc51dbd7d4d68ee5f24170cd89fc110bd76aba2f14b781ab7c470"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
